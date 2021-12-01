@@ -1,1 +1,2 @@
 this file comes from developer B
+line changed in mybranch
