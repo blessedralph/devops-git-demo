@@ -1,2 +1,4 @@
 this file comes from developer B
-this change is added in main branch
+line changed in mybranch
+this line is added in main branch
+
